@@ -25,7 +25,7 @@
 - HTML 
 - CSS  
 
-Note: The live demo of this aplication is not available at the momments as it still in review process at Chorm Extenstion. Once it get publish I will provide the link.  
+Note: The live demo of this aplication is not available at the moments as it still in review process at Chrome Extension. Once it get publish I will provide the link.
 
 Contribute ? Pull Request! 
 
