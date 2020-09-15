@@ -14,7 +14,7 @@
 <p align="center"> <b> *App Home Screen*</p> </b>
 
 <p align="center">
-  <img width="460" height="600" src="https://www.meghshyam.com/photos/CHROMEEXTENSTION.png">
+  <img width="160" height="160" src="https://www.meghshyam.com/photos/CHROMEEXTENSTION.png">
 </p> 
 
 > Language Used 
