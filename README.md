@@ -17,7 +17,7 @@
   <img width="300" height="160" src="https://www.meghshyam.com/photos/CHROMEEXTENSTION.png">
 </p> 
 
-- When you click on facebook icon at this extenstion, it will automatically redirect to JobsLIV facebook page and same for others icon. 
+- When you click on facebook icon after installing this extenstion on your chrome browser, it will automatically redirect to JobsLIV facebook page and same for others icon. 
 
 > Language Used 
 
