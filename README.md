@@ -11,7 +11,7 @@
 - This app is also going to show the buttons for social link through which users of your websites can easily navigate there
 
 
-<p align="center"> <b> *App Home Screen*</p> </b>
+<p align="center"> <b> *JobsLIV Extension at Google Chrome*</p> </b>
 
 <p align="center">
   <img width="300" height="160" src="https://www.meghshyam.com/photos/CHROMEEXTENSTION.png">
