@@ -1,4 +1,4 @@
-# The Web Chrome Browser Extension for Website 
+# The Chrome Browser Extension for Website 
 
 > Can navigate the your website easily
 
