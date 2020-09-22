@@ -19,14 +19,14 @@
 
 - When you click on facebook icon after installing this extension on your chrome browser, it will automatically redirect to JobsLIV facebook page and same for others icon. 
 
-> Language Used 
+> Language Used: 
 
 - JSON
 - HTML 
 - CSS  
 
-Note: The live demo of this aplication is not available at the moments as it still in review process at Chrome Extension. Once it get publish I will provide the link.
+Note: The live demo of this aplication is not available at the moment as it still in review process at Chrome Extension. Once it get publish I will provide the link.
 
-Contribute ? Pull Request! 
+Contribute ? Pull a Request! 
 
 
