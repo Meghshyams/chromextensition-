@@ -2,7 +2,7 @@
 
 > Can navigate the your website easily
 
-> This app can let your web users to track your web social page easily 
+> This app can let your web users to track your website social page easily 
 
 > This extenstion require activeTab permistion 
 
