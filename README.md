@@ -1,6 +1,6 @@
 # The Chrome Browser Extension for Website 
 
-> Can navigate the your website easily
+> Can navigate to your website easily
 
 > This app can let your web users to track your web social page easily 
 
